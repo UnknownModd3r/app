@@ -1,0 +1,36 @@
+{
+  "carousel_settings": {
+    "auto_play": true,
+    "interval_ms": 5000,
+    "transition": "slide"
+  },
+  "slides": [
+    {
+      "id": 1,
+      "platform": "Lazada",
+      "image_url": "assets/images/lazada-promo.jpg",
+      "title": "Exclusive Flash Sale!",
+      "description": "Get up to 50% off on our latest collection.",
+      "button_text": "Shop Now",
+      "link": "https://www.lazada.com/your-store"
+    },
+    {
+      "id": 2,
+      "platform": "TikTok",
+      "image_url": "assets/images/tiktok-viral.jpg",
+      "title": "Trending on TikTok",
+      "description": "Watch our latest reveal and join the challenge.",
+      "button_text": "Watch Now",
+      "link": "https://www.tiktok.com/@your-profile"
+    },
+    {
+      "id": 3,
+      "platform": "Facebook",
+      "image_url": "assets/images/facebook-community.jpg",
+      "title": "Join Our Community",
+      "description": "Stay updated with daily news and giveaways.",
+      "button_text": "Visit Page",
+      "link": "https://www.facebook.com/your-page"
+    }
+  ]
+}
