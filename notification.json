@@ -1,23 +1,5 @@
 {
-  "notifications": [
-    {
-      "id": "fb_follow_001",
-      "type": "social_alert",
-      "priority": "high",
-      "content": {
-        "title": "Stay Connected!",
-        "message": "Follow our official Facebook page for the latest updates, mods, and exclusive announcements.",
-        "icon_url": "assets/icons/facebook_logo.png"
-      },
-      "action": {
-        "label": "Follow Now",
-        "link": "https://www.facebook.com/your-page-id",
-        "dismissible": true
-      },
-      "scheduling": {
-        "display_after_sec": 30,
-        "repeat_interval_days": 7
-      }
-    }
-  ]
+    "message_number": 1,
+    "title": "Welcome to UM IPTV PRO",
+    "body": "For updates, follow us on Facebook: @UnknownMods Modder"
 }
