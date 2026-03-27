@@ -1,7 +1,7 @@
 [
-  { "image": "https://github.com/UnknownModd3r/app/blob/main/images/banner1.jpg","channelName": "One Sports"},
-  { "image": "https://github.com/UnknownModd3r/app/blob/main/images/banner2.jpg", "channelName": "Wil TV"},
-  { "image": "https://github.com/UnknownModd3r/app/blob/main/images/banner3.jpg", "channelName": "ALLTV2"},
-  { "image": "https://github.com/UnknownModd3r/app/blob/main/images/banner4.jpg", "channelName": "Movies Now"},
-  { "image": "https://github.com/UnknownModd3r/app/blob/main/images/banner5.jpg", "channelName": "NBA TV Philippines"}
+  { "image": "https://raw.githubusercontent.com/UnknownModd3r/app/blob/main/images/banner1.jpg","channelName": "One Sports"},
+  { "image": "https://raw.githubusercontent.com/UnknownModd3r/app/blob/main/images/banner2.jpg", "channelName": "Wil TV"},
+  { "image": "https://raw.githubusercontent.com/UnknownModd3r/app/blob/main/images/banner3.jpg", "channelName": "ALLTV2"},
+  { "image": "https://raw.githubusercontent.com/UnknownModd3r/app/blob/main/images/banner4.jpg", "channelName": "Movies Now"},
+  { "image": "https://raw.githubusercontent.com/UnknownModd3r/app/blob/main/images/banner5.jpg", "channelName": "NBA TV Philippines"}
 ]
